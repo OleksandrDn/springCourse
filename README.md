@@ -69,34 +69,6 @@
 ### System Settings:
 - Administrators should be able to configure system settings, such as user roles, access controls, and email notifications.
 
-## Mockups
-
-### 1. Homepage:
-- A clear and concise header with the website's logo and navigation bar.
-- A prominent search bar for document search.
-- Featured documents or collections highlighted on the homepage.
-- Latest uploads or recent activities displayed for registered users.
-
-### 2. Document Listing Page:
-- A list of documents with thumbnail previews, titles, and metadata summaries.
-- Filtering and sorting options to refine the document list based on various criteria.
-- Pagination to manage a large number of documents.
-
-### 3. Document Details Page:
-- A full preview of the document.
-- Metadata information about the document.
-- Options to download, print, share, or add to a collection.
-- A discussion forum or comments section for document-related discussions.
-
-### 4. User Profile:
-- User profile information, including name, email, and contact details.
-- Account settings for managing profile information, password, and preferences.
-- Upload history and document management options.
-
-### 5. Administration Dashboard:
-- User management tools for creating, editing, deleting, and assigning user roles.
-- Document management tools for uploading, editing, deleting, and managing access permissions.
-- System settings for configuring user roles, access controls, and email notifications.
 
 ## REST API Endpoints
 
