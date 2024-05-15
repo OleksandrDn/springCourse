@@ -122,7 +122,12 @@
 - `PUT /documents/:id/access`: Update access control information for a document.
 - `POST /documents/:id/share`: Share a document with another user or group.
 
+
+
 ### 4. System Administration:
 
 - `GET /settings`: Retrieve system settings.
 - `PUT /settings`: Update system settings.
+
+## ER-diagram
+https://github.com/OleksandrDn/springCourse/blob/main/photo_2023-12-26_17-29-48.jpg
