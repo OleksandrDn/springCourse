@@ -130,4 +130,5 @@
 - `PUT /settings`: Update system settings.
 
 ## ER-diagram
-![ER-diagram](https://github.com/OleksandrDn/springCourse/blob/main/ER-diagram.jpg)
+![ER-diagram](https://github.com/cirin0/springCourse/blob/main/ER-diagram.jpg)
+
